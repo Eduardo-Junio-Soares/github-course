@@ -49,6 +49,15 @@ como subir modificações para o repositorio remoto:
 
 git push origin master
 
+Criando um Branch
+
+git checkout -b 'NomeDobranch'
+
+git branch - mostra os branchs existentes no arquivo
+
+git checkout "Nome do branch" - alterna entre as branchs
+
+git branch -D nome da branch - deletar a branch
 
 
 
