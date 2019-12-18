@@ -33,6 +33,15 @@ git diff
 
 git diff --name-only = mostra somente o nome do arquivo que foi modificado
 
+git checkout nomeDoArquivo = permite desfazer as modificações feitas
 
+git reset HEAD nomeDoArquivo - tira o arquivo do status stagged e coloca como modified
 
+gir reset --soft rash = exclui o commit feito e retorna o arquivo para stagged
+
+gir reset --mixed rash = exclui o commit e retorna o arquivo para modified
+
+gir reset --hard rash = Ignora a existencia do commit e tudo que foi feito nele
+
+colocar sempre em uma rash antes da que vc quer excluir.
 
