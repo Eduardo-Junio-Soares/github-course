@@ -9,6 +9,8 @@ Git add = adiciona o arquivo ao git
 
 git commit -m "" = adiciona um comentários especifico daquela versão
 
+git commit -am "" = adiciona comentário sem precisar do comando "git add" antes (valido somente para arquivos que já foram adicionados)
+
 git log = mostra a identificação do arquivo, autor da modificaçãom, a data e uma mensagem pro commit
 
 git log --decorate = mostra mais algumas informações
