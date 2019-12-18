@@ -1,5 +1,10 @@
-git course
+AULA GITHUB	
 
-Este é um repositorio teste para ensinar como o git funciona. 
+Lista de comandos:
 
-Outra modificação qualquer
+Git status = mostra o status que o arquivo se encontra (untracked,
+unmodified, modified, stagged)
+
+Git add = adiciona o arquivo ao git
+
+git commit -m "" = adiciona um comentários especifico daquela versão
