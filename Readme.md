@@ -25,5 +25,12 @@ rash = identificador do arquivo
 
 git show = ao adicionar a rash nesse comando é possivel ver as modificações feitas no arquivo
 
+comando que ve as modificações antes de enviar e fazer o commit;
+
+git diff  
+
+git diff --name-only = mostra somente o nome do arquivo que foi modificado
+
+
 
 
