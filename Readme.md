@@ -45,3 +45,6 @@ gir reset --hard rash = Ignora a existencia do commit e tudo que foi feito nele
 
 colocar sempre em uma rash antes da que vc quer excluir.
 
+como subir modificações para o repositorio remoto
+
+
