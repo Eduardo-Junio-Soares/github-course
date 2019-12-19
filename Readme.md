@@ -59,6 +59,12 @@ git checkout "Nome do branch" - alterna entre as branchs
 
 git branch -D nome da branch - deletar a branch
 
+colocar apelidos nos comandos com o "alias"
+
+Exemplo: trocar o comando status por somente a letra s
+
+git congig --global alias.s status
+
 
 
 
